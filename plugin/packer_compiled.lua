@@ -104,11 +104,6 @@ _G.packer_plugins = {
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
-  ["copilot.vim"] = {
-    loaded = true,
-    path = "/Users/phuongdoantuminh/.local/share/nvim/site/pack/packer/start/copilot.vim",
-    url = "https://github.com/github/copilot.vim"
-  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\friendly-snippets",
@@ -118,16 +113,6 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\gitsigns.nvim",
     url = "https://github.com/lewis6991/gitsigns.nvim"
-  },
-  ["go.nvim"] = {
-    loaded = true,
-    path = "/Users/phuongdoantuminh/.local/share/nvim/site/pack/packer/start/go.nvim",
-    url = "https://github.com/ray-x/go.nvim"
-  },
-  ["guihua.lua"] = {
-    loaded = true,
-    path = "/Users/phuongdoantuminh/.local/share/nvim/site/pack/packer/start/guihua.lua",
-    url = "https://github.com/ray-x/guihua.lua"
   },
   ["lspkind.nvim"] = {
     loaded = true,
@@ -142,12 +127,7 @@ _G.packer_plugins = {
   ["lualine.nvim"] = {
     loaded = true,
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\lualine.nvim",
-    url = "https://github.com/hoob3rt/lualine.nvim"
-  },
-  ["markdown-preview.nvim"] = {
-    loaded = true,
-    path = "/Users/phuongdoantuminh/.local/share/nvim/site/pack/packer/start/markdown-preview.nvim",
-    url = "https://github.com/iamcco/markdown-preview.nvim"
+    url = "https://github.com/nvim-lualine/lualine.nvim"
   },
   ["mason-lspconfig.nvim"] = {
     loaded = true,
@@ -204,12 +184,7 @@ _G.packer_plugins = {
   ["nvim-web-devicons"] = {
     loaded = true,
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\nvim-web-devicons",
-    url = "https://github.com/kyazdani42/nvim-web-devicons"
-  },
-  ["onedark.nvim"] = {
-    loaded = true,
-    path = "/Users/phuongdoantuminh/.local/share/nvim/site/pack/packer/start/onedark.nvim",
-    url = "https://github.com/navarasu/onedark.nvim"
+    url = "https://github.com/nvim-tree/nvim-web-devicons"
   },
   ["packer.nvim"] = {
     loaded = true,
@@ -220,6 +195,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
+  },
+  ["telescope-fzf-native.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\Harry.Doan\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\telescope-fzf-native.nvim",
+    url = "https://github.com/nvim-telescope/telescope-fzf-native.nvim"
   },
   ["telescope.nvim"] = {
     loaded = true,
